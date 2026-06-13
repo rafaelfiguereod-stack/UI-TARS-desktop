@@ -26,7 +26,7 @@
     "@agent-infra/mcp-server-filesystem": "workspace:*",
     "@agent-infra/browser-use": "workspace:*",
     "tsx": "^4.19.3",
-    "vitest": "^3.0.7",
+    "vitest": "^3.2.6",
     "@types/node": "^22",
     "typescript": "^5.7.3"
   }

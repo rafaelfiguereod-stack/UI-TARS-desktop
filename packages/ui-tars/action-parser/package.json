@@ -42,6 +42,6 @@
     "@types/lodash.isnumber": "3.0.3",
     "@common/configs": "workspace:*",
     "typescript": "^5.7.2",
-    "vitest": "^3.0.2"
+    "vitest": "^3.2.6"
   }
 }

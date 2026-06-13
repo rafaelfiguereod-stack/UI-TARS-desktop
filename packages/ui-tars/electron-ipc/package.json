@@ -45,11 +45,11 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "electron": "^30.0.0",
+    "electron": "^39.8.5",
     "@rslib/core": "0.10.0",
     "@common/configs": "workspace:*",
     "typescript": "^5.7.2",
-    "vitest": "^3.0.2"
+    "vitest": "^3.2.6"
   },
   "peerDependencies": {
     "electron": ">=26.0.0"

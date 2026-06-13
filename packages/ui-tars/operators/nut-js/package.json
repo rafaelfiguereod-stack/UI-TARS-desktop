@@ -48,7 +48,7 @@
     "@common/configs": "workspace:*",
     "@rslib/core": "0.10.0",
     "typescript": "^5.7.2",
-    "vitest": "^3.0.2",
+    "vitest": "^3.2.6",
     "@types/big.js": "^6.2.2"
   }
 }
